@@ -1,0 +1,19 @@
+{
+  "name": "aws-s3-https",
+  "description": "AWS S3 HTTP module",
+  "version": "1.0.0",
+  "author": {
+    "name": "Wen Chang",
+    "email": "wchang28@hotmail.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wchang28/aws-s3-https.git"
+  },
+  "dependencies": {
+    "mime": "^1.3.4"
+  }
+}
